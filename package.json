@@ -1,0 +1,19 @@
+{
+  "name": "c9m-sensor-disk-usage",
+  "version": "0.0.0",
+  "description": "Cloud9Metrics sensor for reading system disk usage",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cloud9Trader/c9m-sensor-disk-usage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cloud9Trader/c9m-sensor-disk-usage/issues"
+  },
+  "homepage": "https://github.com/Cloud9Trader/c9m-sensor-disk-usage#readme",
+  "dependencies": {
+  }
+}
