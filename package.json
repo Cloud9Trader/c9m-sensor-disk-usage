@@ -1,6 +1,6 @@
 {
   "name": "c9m-sensor-disk-usage",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Cloud9Metrics sensor for reading system disk usage",
   "main": "index.js",
   "scripts": {},
